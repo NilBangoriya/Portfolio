@@ -25,7 +25,7 @@ export const profile = {
   title: "AI / ML Engineer",
   tagline: "Building intelligent systems that think, retrieve, and reason.",
   location: "India",
-  email: "nilbangoriya1234@email.com",
+  email: "nilbangoriya1234@gmail.com",
   github: "https://github.com/nilbangoriya",
   linkedin: "https://linkedin.com/in/nilbangoriya",
   resumeUrl: "#",
