@@ -139,6 +139,20 @@ export const projects: Project[] = [
     github: "https://github.com/NilBangoriya/Video-Authenticator",
     highlight: "Featured",
   },
+  {
+    title: "Stock Price Prediction",
+    description:
+      "Prophet-based next-day stock forecasting with mean-variance portfolio optimisation — automated daily via GitHub Actions, persisted to Supabase, visualised in Streamlit",
+    tags: [
+      "Python",
+      "Machine Learning",
+      "Supabase",
+      "CI/CD",
+      "Predicton"
+    ],
+    github: "https://github.com/NilBangoriya/Stock-Price-Prediction",
+    highlight: "Featured",
+  },
 ];
 
 export const experience: Experience[] = [
